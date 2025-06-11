@@ -1,28 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');  
-<body
-    margin: 0;
-    padding: 0;
 
- h1, h2 { 
-  font-family: "Open Sans" ,   sans-serif;
-  font-weight: 750;
-  font-style: italic;
-    padding: 10px 15px 20px 25px;
-margin-left: auto;
-  }
-  h3{
-    font-family: "Robo";
-    font-size: 300px;
-    color:aqua #00FFFF; 
-    color: rgb(red, green, rgba(0, 4, 255, 0.986));
-    padding: 10px;
-  }
-  p{
-    font-family: "Robo";
-    
-  }
 
  
 
+.fashion {
+  padding: 20px 30px;
+}
+.fashion_famale {
   
+}
